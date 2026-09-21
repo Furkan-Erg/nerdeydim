@@ -1,0 +1,31 @@
+# Reference config matching this VPS's existing Nginx setup (see
+# /etc/nginx/sites-available/furkanerg.com and streamerdle.furkanerg.com).
+#
+# Setup on the VPS:
+#   1. Replace nerdeydim.furkanerg.com below with the real subdomain/domain.
+#   2. sudo cp this file to /etc/nginx/sites-available/<domain>
+#   3. sudo ln -s /etc/nginx/sites-available/<domain> /etc/nginx/sites-enabled/<domain>
+#   4. sudo nginx -t && sudo systemctl reload nginx
+#   5. sudo certbot --nginx -d <domain>
+#      (Certbot rewrites this file in place, adding the SSL server block and
+#      the 80->443 redirect — same as the other sites on this box.)
+#
+# Proxies to the app container, which docker-compose.prod.yml binds to
+# 127.0.0.1:$APP_PORT (default 3002) — not exposed publicly on its own.
+
+server {
+    listen 80;
+    listen [::]:80;
+    server_name nerdeydim.furkanerg.com;
+
+    location / {
+        proxy_pass http://127.0.0.1:3002;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}

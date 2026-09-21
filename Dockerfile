@@ -3,19 +3,23 @@
 FROM node:22-alpine AS deps
 RUN apk add --no-cache openssl libc6-compat
 WORKDIR /app
+# prisma.config.ts requires DATABASE_URL to resolve, and `postinstall` runs
+# `prisma generate` — both need to be satisfiable during `npm ci` even though
+# neither actually connects to a database at this point.
+ARG DATABASE_URL="postgresql://user:password@localhost:5432/db"
+ENV DATABASE_URL=$DATABASE_URL
 COPY package.json package-lock.json ./
+COPY prisma/schema.prisma ./prisma/schema.prisma
+COPY prisma.config.ts ./prisma.config.ts
 RUN npm ci
 
 FROM node:22-alpine AS builder
 RUN apk add --no-cache openssl libc6-compat
 WORKDIR /app
-COPY --from=deps /app/node_modules ./node_modules
-COPY . .
-# prisma.config.ts requires DATABASE_URL to resolve; `generate`/`build` never
-# connect to it, so a placeholder is enough at build time.
 ARG DATABASE_URL="postgresql://user:password@localhost:5432/db"
 ENV DATABASE_URL=$DATABASE_URL
-RUN npx prisma generate
+COPY --from=deps /app/node_modules ./node_modules
+COPY . .
 RUN npm run build
 
 FROM node:22-alpine AS runner
