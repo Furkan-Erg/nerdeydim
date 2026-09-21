@@ -5,6 +5,9 @@ import type { NextAuthConfig } from "next-auth";
 export const authConfig = {
   session: { strategy: "jwt" },
   pages: { signIn: "/login" },
+  // Required for self-hosted deployments behind a reverse proxy (Nginx):
+  // Auth.js rejects the forwarded Host header as untrusted otherwise.
+  trustHost: true,
   providers: [],
   callbacks: {
     jwt: ({ token, user }) => {
