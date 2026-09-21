@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   description: "Track the countries and cities you've visited.",
 };
 
-export default function RootLayout({ children }: LayoutProps<"/">) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html
       lang="en"
