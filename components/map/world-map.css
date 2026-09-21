@@ -1,0 +1,31 @@
+.city-marker-icon {
+  background: transparent;
+  border: none;
+}
+
+.city-marker-pin {
+  width: 22px;
+  height: 22px;
+  border-radius: 9999px;
+  background: #0f766e;
+  border: 2px solid white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large {
+  background-color: rgba(20, 184, 166, 0.25);
+}
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
+  background-color: rgba(15, 118, 110, 0.85);
+  color: white;
+}

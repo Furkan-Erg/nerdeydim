@@ -1,0 +1,2002 @@
+[
+  {
+    "code": "AD",
+    "iso3": "AND",
+    "name": "Andorra",
+    "centroidLat": 42.5,
+    "centroidLng": 1.5,
+    "region": "Europe"
+  },
+  {
+    "code": "AE",
+    "iso3": "ARE",
+    "name": "United Arab Emirates",
+    "centroidLat": 24,
+    "centroidLng": 54,
+    "region": "Asia"
+  },
+  {
+    "code": "AF",
+    "iso3": "AFG",
+    "name": "Afghanistan",
+    "centroidLat": 33,
+    "centroidLng": 65,
+    "region": "Asia"
+  },
+  {
+    "code": "AG",
+    "iso3": "ATG",
+    "name": "Antigua and Barbuda",
+    "centroidLat": 17.05,
+    "centroidLng": -61.8,
+    "region": "Americas"
+  },
+  {
+    "code": "AI",
+    "iso3": "AIA",
+    "name": "Anguilla",
+    "centroidLat": 18.25,
+    "centroidLng": -63.16666666,
+    "region": "Americas"
+  },
+  {
+    "code": "AL",
+    "iso3": "ALB",
+    "name": "Albania",
+    "centroidLat": 41,
+    "centroidLng": 20,
+    "region": "Europe"
+  },
+  {
+    "code": "AM",
+    "iso3": "ARM",
+    "name": "Armenia",
+    "centroidLat": 40,
+    "centroidLng": 45,
+    "region": "Asia"
+  },
+  {
+    "code": "AO",
+    "iso3": "AGO",
+    "name": "Angola",
+    "centroidLat": -12.5,
+    "centroidLng": 18.5,
+    "region": "Africa"
+  },
+  {
+    "code": "AQ",
+    "iso3": "ATA",
+    "name": "Antarctica",
+    "centroidLat": -90,
+    "centroidLng": 0,
+    "region": "Antarctic"
+  },
+  {
+    "code": "AR",
+    "iso3": "ARG",
+    "name": "Argentina",
+    "centroidLat": -34,
+    "centroidLng": -64,
+    "region": "Americas"
+  },
+  {
+    "code": "AS",
+    "iso3": "ASM",
+    "name": "American Samoa",
+    "centroidLat": -14.33333333,
+    "centroidLng": -170,
+    "region": "Oceania"
+  },
+  {
+    "code": "AT",
+    "iso3": "AUT",
+    "name": "Austria",
+    "centroidLat": 47.33333333,
+    "centroidLng": 13.33333333,
+    "region": "Europe"
+  },
+  {
+    "code": "AU",
+    "iso3": "AUS",
+    "name": "Australia",
+    "centroidLat": -27,
+    "centroidLng": 133,
+    "region": "Oceania"
+  },
+  {
+    "code": "AW",
+    "iso3": "ABW",
+    "name": "Aruba",
+    "centroidLat": 12.5,
+    "centroidLng": -69.96666666,
+    "region": "Americas"
+  },
+  {
+    "code": "AX",
+    "iso3": "ALA",
+    "name": "Åland Islands",
+    "centroidLat": 60.116667,
+    "centroidLng": 19.9,
+    "region": "Europe"
+  },
+  {
+    "code": "AZ",
+    "iso3": "AZE",
+    "name": "Azerbaijan",
+    "centroidLat": 40.5,
+    "centroidLng": 47.5,
+    "region": "Asia"
+  },
+  {
+    "code": "BA",
+    "iso3": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "centroidLat": 44,
+    "centroidLng": 18,
+    "region": "Europe"
+  },
+  {
+    "code": "BB",
+    "iso3": "BRB",
+    "name": "Barbados",
+    "centroidLat": 13.16666666,
+    "centroidLng": -59.53333333,
+    "region": "Americas"
+  },
+  {
+    "code": "BD",
+    "iso3": "BGD",
+    "name": "Bangladesh",
+    "centroidLat": 24,
+    "centroidLng": 90,
+    "region": "Asia"
+  },
+  {
+    "code": "BE",
+    "iso3": "BEL",
+    "name": "Belgium",
+    "centroidLat": 50.83333333,
+    "centroidLng": 4,
+    "region": "Europe"
+  },
+  {
+    "code": "BF",
+    "iso3": "BFA",
+    "name": "Burkina Faso",
+    "centroidLat": 13,
+    "centroidLng": -2,
+    "region": "Africa"
+  },
+  {
+    "code": "BG",
+    "iso3": "BGR",
+    "name": "Bulgaria",
+    "centroidLat": 43,
+    "centroidLng": 25,
+    "region": "Europe"
+  },
+  {
+    "code": "BH",
+    "iso3": "BHR",
+    "name": "Bahrain",
+    "centroidLat": 26,
+    "centroidLng": 50.55,
+    "region": "Asia"
+  },
+  {
+    "code": "BI",
+    "iso3": "BDI",
+    "name": "Burundi",
+    "centroidLat": -3.5,
+    "centroidLng": 30,
+    "region": "Africa"
+  },
+  {
+    "code": "BJ",
+    "iso3": "BEN",
+    "name": "Benin",
+    "centroidLat": 9.5,
+    "centroidLng": 2.25,
+    "region": "Africa"
+  },
+  {
+    "code": "BL",
+    "iso3": "BLM",
+    "name": "Saint Barthélemy",
+    "centroidLat": 18.5,
+    "centroidLng": -63.41666666,
+    "region": "Americas"
+  },
+  {
+    "code": "BM",
+    "iso3": "BMU",
+    "name": "Bermuda",
+    "centroidLat": 32.33333333,
+    "centroidLng": -64.75,
+    "region": "Americas"
+  },
+  {
+    "code": "BN",
+    "iso3": "BRN",
+    "name": "Brunei",
+    "centroidLat": 4.5,
+    "centroidLng": 114.66666666,
+    "region": "Asia"
+  },
+  {
+    "code": "BO",
+    "iso3": "BOL",
+    "name": "Bolivia",
+    "centroidLat": -17,
+    "centroidLng": -65,
+    "region": "Americas"
+  },
+  {
+    "code": "BQ",
+    "iso3": "BES",
+    "name": "Caribbean Netherlands",
+    "centroidLat": 12.18,
+    "centroidLng": -68.25,
+    "region": "Americas"
+  },
+  {
+    "code": "BR",
+    "iso3": "BRA",
+    "name": "Brazil",
+    "centroidLat": -10,
+    "centroidLng": -55,
+    "region": "Americas"
+  },
+  {
+    "code": "BS",
+    "iso3": "BHS",
+    "name": "Bahamas",
+    "centroidLat": 24.25,
+    "centroidLng": -76,
+    "region": "Americas"
+  },
+  {
+    "code": "BT",
+    "iso3": "BTN",
+    "name": "Bhutan",
+    "centroidLat": 27.5,
+    "centroidLng": 90.5,
+    "region": "Asia"
+  },
+  {
+    "code": "BV",
+    "iso3": "BVT",
+    "name": "Bouvet Island",
+    "centroidLat": -54.43333333,
+    "centroidLng": 3.4,
+    "region": "Antarctic"
+  },
+  {
+    "code": "BW",
+    "iso3": "BWA",
+    "name": "Botswana",
+    "centroidLat": -22,
+    "centroidLng": 24,
+    "region": "Africa"
+  },
+  {
+    "code": "BY",
+    "iso3": "BLR",
+    "name": "Belarus",
+    "centroidLat": 53,
+    "centroidLng": 28,
+    "region": "Europe"
+  },
+  {
+    "code": "BZ",
+    "iso3": "BLZ",
+    "name": "Belize",
+    "centroidLat": 17.25,
+    "centroidLng": -88.75,
+    "region": "Americas"
+  },
+  {
+    "code": "CA",
+    "iso3": "CAN",
+    "name": "Canada",
+    "centroidLat": 60,
+    "centroidLng": -95,
+    "region": "Americas"
+  },
+  {
+    "code": "CC",
+    "iso3": "CCK",
+    "name": "Cocos (Keeling) Islands",
+    "centroidLat": -12.5,
+    "centroidLng": 96.83333333,
+    "region": "Oceania"
+  },
+  {
+    "code": "CD",
+    "iso3": "COD",
+    "name": "DR Congo",
+    "centroidLat": 0,
+    "centroidLng": 25,
+    "region": "Africa"
+  },
+  {
+    "code": "CF",
+    "iso3": "CAF",
+    "name": "Central African Republic",
+    "centroidLat": 7,
+    "centroidLng": 21,
+    "region": "Africa"
+  },
+  {
+    "code": "CG",
+    "iso3": "COG",
+    "name": "Republic of the Congo",
+    "centroidLat": -1,
+    "centroidLng": 15,
+    "region": "Africa"
+  },
+  {
+    "code": "CH",
+    "iso3": "CHE",
+    "name": "Switzerland",
+    "centroidLat": 47,
+    "centroidLng": 8,
+    "region": "Europe"
+  },
+  {
+    "code": "CI",
+    "iso3": "CIV",
+    "name": "Ivory Coast",
+    "centroidLat": 8,
+    "centroidLng": -5,
+    "region": "Africa"
+  },
+  {
+    "code": "CK",
+    "iso3": "COK",
+    "name": "Cook Islands",
+    "centroidLat": -21.23333333,
+    "centroidLng": -159.76666666,
+    "region": "Oceania"
+  },
+  {
+    "code": "CL",
+    "iso3": "CHL",
+    "name": "Chile",
+    "centroidLat": -30,
+    "centroidLng": -71,
+    "region": "Americas"
+  },
+  {
+    "code": "CM",
+    "iso3": "CMR",
+    "name": "Cameroon",
+    "centroidLat": 6,
+    "centroidLng": 12,
+    "region": "Africa"
+  },
+  {
+    "code": "CN",
+    "iso3": "CHN",
+    "name": "China",
+    "centroidLat": 35,
+    "centroidLng": 105,
+    "region": "Asia"
+  },
+  {
+    "code": "CO",
+    "iso3": "COL",
+    "name": "Colombia",
+    "centroidLat": 4,
+    "centroidLng": -72,
+    "region": "Americas"
+  },
+  {
+    "code": "CR",
+    "iso3": "CRI",
+    "name": "Costa Rica",
+    "centroidLat": 10,
+    "centroidLng": -84,
+    "region": "Americas"
+  },
+  {
+    "code": "CU",
+    "iso3": "CUB",
+    "name": "Cuba",
+    "centroidLat": 21.5,
+    "centroidLng": -80,
+    "region": "Americas"
+  },
+  {
+    "code": "CV",
+    "iso3": "CPV",
+    "name": "Cape Verde",
+    "centroidLat": 16,
+    "centroidLng": -24,
+    "region": "Africa"
+  },
+  {
+    "code": "CW",
+    "iso3": "CUW",
+    "name": "Curaçao",
+    "centroidLat": 12.116667,
+    "centroidLng": -68.933333,
+    "region": "Americas"
+  },
+  {
+    "code": "CX",
+    "iso3": "CXR",
+    "name": "Christmas Island",
+    "centroidLat": -10.5,
+    "centroidLng": 105.66666666,
+    "region": "Oceania"
+  },
+  {
+    "code": "CY",
+    "iso3": "CYP",
+    "name": "Cyprus",
+    "centroidLat": 35,
+    "centroidLng": 33,
+    "region": "Europe"
+  },
+  {
+    "code": "CZ",
+    "iso3": "CZE",
+    "name": "Czechia",
+    "centroidLat": 49.75,
+    "centroidLng": 15.5,
+    "region": "Europe"
+  },
+  {
+    "code": "DE",
+    "iso3": "DEU",
+    "name": "Germany",
+    "centroidLat": 51,
+    "centroidLng": 9,
+    "region": "Europe"
+  },
+  {
+    "code": "DJ",
+    "iso3": "DJI",
+    "name": "Djibouti",
+    "centroidLat": 11.5,
+    "centroidLng": 43,
+    "region": "Africa"
+  },
+  {
+    "code": "DK",
+    "iso3": "DNK",
+    "name": "Denmark",
+    "centroidLat": 56,
+    "centroidLng": 10,
+    "region": "Europe"
+  },
+  {
+    "code": "DM",
+    "iso3": "DMA",
+    "name": "Dominica",
+    "centroidLat": 15.41666666,
+    "centroidLng": -61.33333333,
+    "region": "Americas"
+  },
+  {
+    "code": "DO",
+    "iso3": "DOM",
+    "name": "Dominican Republic",
+    "centroidLat": 19,
+    "centroidLng": -70.66666666,
+    "region": "Americas"
+  },
+  {
+    "code": "DZ",
+    "iso3": "DZA",
+    "name": "Algeria",
+    "centroidLat": 28,
+    "centroidLng": 3,
+    "region": "Africa"
+  },
+  {
+    "code": "EC",
+    "iso3": "ECU",
+    "name": "Ecuador",
+    "centroidLat": -2,
+    "centroidLng": -77.5,
+    "region": "Americas"
+  },
+  {
+    "code": "EE",
+    "iso3": "EST",
+    "name": "Estonia",
+    "centroidLat": 59,
+    "centroidLng": 26,
+    "region": "Europe"
+  },
+  {
+    "code": "EG",
+    "iso3": "EGY",
+    "name": "Egypt",
+    "centroidLat": 27,
+    "centroidLng": 30,
+    "region": "Africa"
+  },
+  {
+    "code": "EH",
+    "iso3": "ESH",
+    "name": "Western Sahara",
+    "centroidLat": 24.5,
+    "centroidLng": -13,
+    "region": "Africa"
+  },
+  {
+    "code": "ER",
+    "iso3": "ERI",
+    "name": "Eritrea",
+    "centroidLat": 15,
+    "centroidLng": 39,
+    "region": "Africa"
+  },
+  {
+    "code": "ES",
+    "iso3": "ESP",
+    "name": "Spain",
+    "centroidLat": 40,
+    "centroidLng": -4,
+    "region": "Europe"
+  },
+  {
+    "code": "ET",
+    "iso3": "ETH",
+    "name": "Ethiopia",
+    "centroidLat": 8,
+    "centroidLng": 38,
+    "region": "Africa"
+  },
+  {
+    "code": "FI",
+    "iso3": "FIN",
+    "name": "Finland",
+    "centroidLat": 64,
+    "centroidLng": 26,
+    "region": "Europe"
+  },
+  {
+    "code": "FJ",
+    "iso3": "FJI",
+    "name": "Fiji",
+    "centroidLat": -18,
+    "centroidLng": 175,
+    "region": "Oceania"
+  },
+  {
+    "code": "FK",
+    "iso3": "FLK",
+    "name": "Falkland Islands",
+    "centroidLat": -51.75,
+    "centroidLng": -59,
+    "region": "Americas"
+  },
+  {
+    "code": "FM",
+    "iso3": "FSM",
+    "name": "Micronesia",
+    "centroidLat": 6.91666666,
+    "centroidLng": 158.25,
+    "region": "Oceania"
+  },
+  {
+    "code": "FO",
+    "iso3": "FRO",
+    "name": "Faroe Islands",
+    "centroidLat": 62,
+    "centroidLng": -7,
+    "region": "Europe"
+  },
+  {
+    "code": "FR",
+    "iso3": "FRA",
+    "name": "France",
+    "centroidLat": 46,
+    "centroidLng": 2,
+    "region": "Europe"
+  },
+  {
+    "code": "GA",
+    "iso3": "GAB",
+    "name": "Gabon",
+    "centroidLat": -1,
+    "centroidLng": 11.75,
+    "region": "Africa"
+  },
+  {
+    "code": "GB",
+    "iso3": "GBR",
+    "name": "United Kingdom",
+    "centroidLat": 54,
+    "centroidLng": -2,
+    "region": "Europe"
+  },
+  {
+    "code": "GD",
+    "iso3": "GRD",
+    "name": "Grenada",
+    "centroidLat": 12.11666666,
+    "centroidLng": -61.66666666,
+    "region": "Americas"
+  },
+  {
+    "code": "GE",
+    "iso3": "GEO",
+    "name": "Georgia",
+    "centroidLat": 42,
+    "centroidLng": 43.5,
+    "region": "Asia"
+  },
+  {
+    "code": "GF",
+    "iso3": "GUF",
+    "name": "French Guiana",
+    "centroidLat": 4,
+    "centroidLng": -53,
+    "region": "Americas"
+  },
+  {
+    "code": "GG",
+    "iso3": "GGY",
+    "name": "Guernsey",
+    "centroidLat": 49.46666666,
+    "centroidLng": -2.58333333,
+    "region": "Europe"
+  },
+  {
+    "code": "GH",
+    "iso3": "GHA",
+    "name": "Ghana",
+    "centroidLat": 8,
+    "centroidLng": -2,
+    "region": "Africa"
+  },
+  {
+    "code": "GI",
+    "iso3": "GIB",
+    "name": "Gibraltar",
+    "centroidLat": 36.13333333,
+    "centroidLng": -5.35,
+    "region": "Europe"
+  },
+  {
+    "code": "GL",
+    "iso3": "GRL",
+    "name": "Greenland",
+    "centroidLat": 72,
+    "centroidLng": -40,
+    "region": "Americas"
+  },
+  {
+    "code": "GM",
+    "iso3": "GMB",
+    "name": "Gambia",
+    "centroidLat": 13.46666666,
+    "centroidLng": -16.56666666,
+    "region": "Africa"
+  },
+  {
+    "code": "GN",
+    "iso3": "GIN",
+    "name": "Guinea",
+    "centroidLat": 11,
+    "centroidLng": -10,
+    "region": "Africa"
+  },
+  {
+    "code": "GP",
+    "iso3": "GLP",
+    "name": "Guadeloupe",
+    "centroidLat": 16.25,
+    "centroidLng": -61.583333,
+    "region": "Americas"
+  },
+  {
+    "code": "GQ",
+    "iso3": "GNQ",
+    "name": "Equatorial Guinea",
+    "centroidLat": 2,
+    "centroidLng": 10,
+    "region": "Africa"
+  },
+  {
+    "code": "GR",
+    "iso3": "GRC",
+    "name": "Greece",
+    "centroidLat": 39,
+    "centroidLng": 22,
+    "region": "Europe"
+  },
+  {
+    "code": "GS",
+    "iso3": "SGS",
+    "name": "South Georgia",
+    "centroidLat": -54.5,
+    "centroidLng": -37,
+    "region": "Antarctic"
+  },
+  {
+    "code": "GT",
+    "iso3": "GTM",
+    "name": "Guatemala",
+    "centroidLat": 15.5,
+    "centroidLng": -90.25,
+    "region": "Americas"
+  },
+  {
+    "code": "GU",
+    "iso3": "GUM",
+    "name": "Guam",
+    "centroidLat": 13.46666666,
+    "centroidLng": 144.78333333,
+    "region": "Oceania"
+  },
+  {
+    "code": "GW",
+    "iso3": "GNB",
+    "name": "Guinea-Bissau",
+    "centroidLat": 12,
+    "centroidLng": -15,
+    "region": "Africa"
+  },
+  {
+    "code": "GY",
+    "iso3": "GUY",
+    "name": "Guyana",
+    "centroidLat": 5,
+    "centroidLng": -59,
+    "region": "Americas"
+  },
+  {
+    "code": "HK",
+    "iso3": "HKG",
+    "name": "Hong Kong",
+    "centroidLat": 22.267,
+    "centroidLng": 114.188,
+    "region": "Asia"
+  },
+  {
+    "code": "HM",
+    "iso3": "HMD",
+    "name": "Heard Island and McDonald Islands",
+    "centroidLat": -53.1,
+    "centroidLng": 72.51666666,
+    "region": "Antarctic"
+  },
+  {
+    "code": "HN",
+    "iso3": "HND",
+    "name": "Honduras",
+    "centroidLat": 15,
+    "centroidLng": -86.5,
+    "region": "Americas"
+  },
+  {
+    "code": "HR",
+    "iso3": "HRV",
+    "name": "Croatia",
+    "centroidLat": 45.16666666,
+    "centroidLng": 15.5,
+    "region": "Europe"
+  },
+  {
+    "code": "HT",
+    "iso3": "HTI",
+    "name": "Haiti",
+    "centroidLat": 19,
+    "centroidLng": -72.41666666,
+    "region": "Americas"
+  },
+  {
+    "code": "HU",
+    "iso3": "HUN",
+    "name": "Hungary",
+    "centroidLat": 47,
+    "centroidLng": 20,
+    "region": "Europe"
+  },
+  {
+    "code": "ID",
+    "iso3": "IDN",
+    "name": "Indonesia",
+    "centroidLat": -5,
+    "centroidLng": 120,
+    "region": "Asia"
+  },
+  {
+    "code": "IE",
+    "iso3": "IRL",
+    "name": "Ireland",
+    "centroidLat": 53,
+    "centroidLng": -8,
+    "region": "Europe"
+  },
+  {
+    "code": "IL",
+    "iso3": "ISR",
+    "name": "Israel",
+    "centroidLat": 31.47,
+    "centroidLng": 35.13,
+    "region": "Asia"
+  },
+  {
+    "code": "IM",
+    "iso3": "IMN",
+    "name": "Isle of Man",
+    "centroidLat": 54.25,
+    "centroidLng": -4.5,
+    "region": "Europe"
+  },
+  {
+    "code": "IN",
+    "iso3": "IND",
+    "name": "India",
+    "centroidLat": 20,
+    "centroidLng": 77,
+    "region": "Asia"
+  },
+  {
+    "code": "IO",
+    "iso3": "IOT",
+    "name": "British Indian Ocean Territory",
+    "centroidLat": -6,
+    "centroidLng": 71.5,
+    "region": "Africa"
+  },
+  {
+    "code": "IQ",
+    "iso3": "IRQ",
+    "name": "Iraq",
+    "centroidLat": 33,
+    "centroidLng": 44,
+    "region": "Asia"
+  },
+  {
+    "code": "IR",
+    "iso3": "IRN",
+    "name": "Iran",
+    "centroidLat": 32,
+    "centroidLng": 53,
+    "region": "Asia"
+  },
+  {
+    "code": "IS",
+    "iso3": "ISL",
+    "name": "Iceland",
+    "centroidLat": 65,
+    "centroidLng": -18,
+    "region": "Europe"
+  },
+  {
+    "code": "IT",
+    "iso3": "ITA",
+    "name": "Italy",
+    "centroidLat": 42.83333333,
+    "centroidLng": 12.83333333,
+    "region": "Europe"
+  },
+  {
+    "code": "JE",
+    "iso3": "JEY",
+    "name": "Jersey",
+    "centroidLat": 49.25,
+    "centroidLng": -2.16666666,
+    "region": "Europe"
+  },
+  {
+    "code": "JM",
+    "iso3": "JAM",
+    "name": "Jamaica",
+    "centroidLat": 18.25,
+    "centroidLng": -77.5,
+    "region": "Americas"
+  },
+  {
+    "code": "JO",
+    "iso3": "JOR",
+    "name": "Jordan",
+    "centroidLat": 31,
+    "centroidLng": 36,
+    "region": "Asia"
+  },
+  {
+    "code": "JP",
+    "iso3": "JPN",
+    "name": "Japan",
+    "centroidLat": 36,
+    "centroidLng": 138,
+    "region": "Asia"
+  },
+  {
+    "code": "KE",
+    "iso3": "KEN",
+    "name": "Kenya",
+    "centroidLat": 1,
+    "centroidLng": 38,
+    "region": "Africa"
+  },
+  {
+    "code": "KG",
+    "iso3": "KGZ",
+    "name": "Kyrgyzstan",
+    "centroidLat": 41,
+    "centroidLng": 75,
+    "region": "Asia"
+  },
+  {
+    "code": "KH",
+    "iso3": "KHM",
+    "name": "Cambodia",
+    "centroidLat": 13,
+    "centroidLng": 105,
+    "region": "Asia"
+  },
+  {
+    "code": "KI",
+    "iso3": "KIR",
+    "name": "Kiribati",
+    "centroidLat": 1.41666666,
+    "centroidLng": 173,
+    "region": "Oceania"
+  },
+  {
+    "code": "KM",
+    "iso3": "COM",
+    "name": "Comoros",
+    "centroidLat": -12.16666666,
+    "centroidLng": 44.25,
+    "region": "Africa"
+  },
+  {
+    "code": "KN",
+    "iso3": "KNA",
+    "name": "Saint Kitts and Nevis",
+    "centroidLat": 17.33333333,
+    "centroidLng": -62.75,
+    "region": "Americas"
+  },
+  {
+    "code": "KP",
+    "iso3": "PRK",
+    "name": "North Korea",
+    "centroidLat": 40,
+    "centroidLng": 127,
+    "region": "Asia"
+  },
+  {
+    "code": "KR",
+    "iso3": "KOR",
+    "name": "South Korea",
+    "centroidLat": 37,
+    "centroidLng": 127.5,
+    "region": "Asia"
+  },
+  {
+    "code": "KW",
+    "iso3": "KWT",
+    "name": "Kuwait",
+    "centroidLat": 29.5,
+    "centroidLng": 45.75,
+    "region": "Asia"
+  },
+  {
+    "code": "KY",
+    "iso3": "CYM",
+    "name": "Cayman Islands",
+    "centroidLat": 19.5,
+    "centroidLng": -80.5,
+    "region": "Americas"
+  },
+  {
+    "code": "KZ",
+    "iso3": "KAZ",
+    "name": "Kazakhstan",
+    "centroidLat": 48,
+    "centroidLng": 68,
+    "region": "Asia"
+  },
+  {
+    "code": "LA",
+    "iso3": "LAO",
+    "name": "Laos",
+    "centroidLat": 18,
+    "centroidLng": 105,
+    "region": "Asia"
+  },
+  {
+    "code": "LB",
+    "iso3": "LBN",
+    "name": "Lebanon",
+    "centroidLat": 33.83333333,
+    "centroidLng": 35.83333333,
+    "region": "Asia"
+  },
+  {
+    "code": "LC",
+    "iso3": "LCA",
+    "name": "Saint Lucia",
+    "centroidLat": 13.88333333,
+    "centroidLng": -60.96666666,
+    "region": "Americas"
+  },
+  {
+    "code": "LI",
+    "iso3": "LIE",
+    "name": "Liechtenstein",
+    "centroidLat": 47.26666666,
+    "centroidLng": 9.53333333,
+    "region": "Europe"
+  },
+  {
+    "code": "LK",
+    "iso3": "LKA",
+    "name": "Sri Lanka",
+    "centroidLat": 7,
+    "centroidLng": 81,
+    "region": "Asia"
+  },
+  {
+    "code": "LR",
+    "iso3": "LBR",
+    "name": "Liberia",
+    "centroidLat": 6.5,
+    "centroidLng": -9.5,
+    "region": "Africa"
+  },
+  {
+    "code": "LS",
+    "iso3": "LSO",
+    "name": "Lesotho",
+    "centroidLat": -29.5,
+    "centroidLng": 28.5,
+    "region": "Africa"
+  },
+  {
+    "code": "LT",
+    "iso3": "LTU",
+    "name": "Lithuania",
+    "centroidLat": 56,
+    "centroidLng": 24,
+    "region": "Europe"
+  },
+  {
+    "code": "LU",
+    "iso3": "LUX",
+    "name": "Luxembourg",
+    "centroidLat": 49.75,
+    "centroidLng": 6.16666666,
+    "region": "Europe"
+  },
+  {
+    "code": "LV",
+    "iso3": "LVA",
+    "name": "Latvia",
+    "centroidLat": 57,
+    "centroidLng": 25,
+    "region": "Europe"
+  },
+  {
+    "code": "LY",
+    "iso3": "LBY",
+    "name": "Libya",
+    "centroidLat": 25,
+    "centroidLng": 17,
+    "region": "Africa"
+  },
+  {
+    "code": "MA",
+    "iso3": "MAR",
+    "name": "Morocco",
+    "centroidLat": 32,
+    "centroidLng": -5,
+    "region": "Africa"
+  },
+  {
+    "code": "MC",
+    "iso3": "MCO",
+    "name": "Monaco",
+    "centroidLat": 43.73333333,
+    "centroidLng": 7.4,
+    "region": "Europe"
+  },
+  {
+    "code": "MD",
+    "iso3": "MDA",
+    "name": "Moldova",
+    "centroidLat": 47,
+    "centroidLng": 29,
+    "region": "Europe"
+  },
+  {
+    "code": "ME",
+    "iso3": "MNE",
+    "name": "Montenegro",
+    "centroidLat": 42.5,
+    "centroidLng": 19.3,
+    "region": "Europe"
+  },
+  {
+    "code": "MF",
+    "iso3": "MAF",
+    "name": "Saint Martin",
+    "centroidLat": 18.08333333,
+    "centroidLng": -63.95,
+    "region": "Americas"
+  },
+  {
+    "code": "MG",
+    "iso3": "MDG",
+    "name": "Madagascar",
+    "centroidLat": -20,
+    "centroidLng": 47,
+    "region": "Africa"
+  },
+  {
+    "code": "MH",
+    "iso3": "MHL",
+    "name": "Marshall Islands",
+    "centroidLat": 9,
+    "centroidLng": 168,
+    "region": "Oceania"
+  },
+  {
+    "code": "MK",
+    "iso3": "MKD",
+    "name": "North Macedonia",
+    "centroidLat": 41.83333333,
+    "centroidLng": 22,
+    "region": "Europe"
+  },
+  {
+    "code": "ML",
+    "iso3": "MLI",
+    "name": "Mali",
+    "centroidLat": 17,
+    "centroidLng": -4,
+    "region": "Africa"
+  },
+  {
+    "code": "MM",
+    "iso3": "MMR",
+    "name": "Myanmar",
+    "centroidLat": 22,
+    "centroidLng": 98,
+    "region": "Asia"
+  },
+  {
+    "code": "MN",
+    "iso3": "MNG",
+    "name": "Mongolia",
+    "centroidLat": 46,
+    "centroidLng": 105,
+    "region": "Asia"
+  },
+  {
+    "code": "MO",
+    "iso3": "MAC",
+    "name": "Macau",
+    "centroidLat": 22.16666666,
+    "centroidLng": 113.55,
+    "region": "Asia"
+  },
+  {
+    "code": "MP",
+    "iso3": "MNP",
+    "name": "Northern Mariana Islands",
+    "centroidLat": 15.2,
+    "centroidLng": 145.75,
+    "region": "Oceania"
+  },
+  {
+    "code": "MQ",
+    "iso3": "MTQ",
+    "name": "Martinique",
+    "centroidLat": 14.666667,
+    "centroidLng": -61,
+    "region": "Americas"
+  },
+  {
+    "code": "MR",
+    "iso3": "MRT",
+    "name": "Mauritania",
+    "centroidLat": 20,
+    "centroidLng": -12,
+    "region": "Africa"
+  },
+  {
+    "code": "MS",
+    "iso3": "MSR",
+    "name": "Montserrat",
+    "centroidLat": 16.75,
+    "centroidLng": -62.2,
+    "region": "Americas"
+  },
+  {
+    "code": "MT",
+    "iso3": "MLT",
+    "name": "Malta",
+    "centroidLat": 35.83333333,
+    "centroidLng": 14.58333333,
+    "region": "Europe"
+  },
+  {
+    "code": "MU",
+    "iso3": "MUS",
+    "name": "Mauritius",
+    "centroidLat": -20.28333333,
+    "centroidLng": 57.55,
+    "region": "Africa"
+  },
+  {
+    "code": "MV",
+    "iso3": "MDV",
+    "name": "Maldives",
+    "centroidLat": 3.25,
+    "centroidLng": 73,
+    "region": "Asia"
+  },
+  {
+    "code": "MW",
+    "iso3": "MWI",
+    "name": "Malawi",
+    "centroidLat": -13.5,
+    "centroidLng": 34,
+    "region": "Africa"
+  },
+  {
+    "code": "MX",
+    "iso3": "MEX",
+    "name": "Mexico",
+    "centroidLat": 23,
+    "centroidLng": -102,
+    "region": "Americas"
+  },
+  {
+    "code": "MY",
+    "iso3": "MYS",
+    "name": "Malaysia",
+    "centroidLat": 2.5,
+    "centroidLng": 112.5,
+    "region": "Asia"
+  },
+  {
+    "code": "MZ",
+    "iso3": "MOZ",
+    "name": "Mozambique",
+    "centroidLat": -18.25,
+    "centroidLng": 35,
+    "region": "Africa"
+  },
+  {
+    "code": "NA",
+    "iso3": "NAM",
+    "name": "Namibia",
+    "centroidLat": -22,
+    "centroidLng": 17,
+    "region": "Africa"
+  },
+  {
+    "code": "NC",
+    "iso3": "NCL",
+    "name": "New Caledonia",
+    "centroidLat": -21.5,
+    "centroidLng": 165.5,
+    "region": "Oceania"
+  },
+  {
+    "code": "NE",
+    "iso3": "NER",
+    "name": "Niger",
+    "centroidLat": 16,
+    "centroidLng": 8,
+    "region": "Africa"
+  },
+  {
+    "code": "NF",
+    "iso3": "NFK",
+    "name": "Norfolk Island",
+    "centroidLat": -29.03333333,
+    "centroidLng": 167.95,
+    "region": "Oceania"
+  },
+  {
+    "code": "NG",
+    "iso3": "NGA",
+    "name": "Nigeria",
+    "centroidLat": 10,
+    "centroidLng": 8,
+    "region": "Africa"
+  },
+  {
+    "code": "NI",
+    "iso3": "NIC",
+    "name": "Nicaragua",
+    "centroidLat": 13,
+    "centroidLng": -85,
+    "region": "Americas"
+  },
+  {
+    "code": "NL",
+    "iso3": "NLD",
+    "name": "Netherlands",
+    "centroidLat": 52.5,
+    "centroidLng": 5.75,
+    "region": "Europe"
+  },
+  {
+    "code": "NO",
+    "iso3": "NOR",
+    "name": "Norway",
+    "centroidLat": 62,
+    "centroidLng": 10,
+    "region": "Europe"
+  },
+  {
+    "code": "NP",
+    "iso3": "NPL",
+    "name": "Nepal",
+    "centroidLat": 28,
+    "centroidLng": 84,
+    "region": "Asia"
+  },
+  {
+    "code": "NR",
+    "iso3": "NRU",
+    "name": "Nauru",
+    "centroidLat": -0.53333333,
+    "centroidLng": 166.91666666,
+    "region": "Oceania"
+  },
+  {
+    "code": "NU",
+    "iso3": "NIU",
+    "name": "Niue",
+    "centroidLat": -19.03333333,
+    "centroidLng": -169.86666666,
+    "region": "Oceania"
+  },
+  {
+    "code": "NZ",
+    "iso3": "NZL",
+    "name": "New Zealand",
+    "centroidLat": -41,
+    "centroidLng": 174,
+    "region": "Oceania"
+  },
+  {
+    "code": "OM",
+    "iso3": "OMN",
+    "name": "Oman",
+    "centroidLat": 21,
+    "centroidLng": 57,
+    "region": "Asia"
+  },
+  {
+    "code": "PA",
+    "iso3": "PAN",
+    "name": "Panama",
+    "centroidLat": 9,
+    "centroidLng": -80,
+    "region": "Americas"
+  },
+  {
+    "code": "PE",
+    "iso3": "PER",
+    "name": "Peru",
+    "centroidLat": -10,
+    "centroidLng": -76,
+    "region": "Americas"
+  },
+  {
+    "code": "PF",
+    "iso3": "PYF",
+    "name": "French Polynesia",
+    "centroidLat": -15,
+    "centroidLng": -140,
+    "region": "Oceania"
+  },
+  {
+    "code": "PG",
+    "iso3": "PNG",
+    "name": "Papua New Guinea",
+    "centroidLat": -6,
+    "centroidLng": 147,
+    "region": "Oceania"
+  },
+  {
+    "code": "PH",
+    "iso3": "PHL",
+    "name": "Philippines",
+    "centroidLat": 13,
+    "centroidLng": 122,
+    "region": "Asia"
+  },
+  {
+    "code": "PK",
+    "iso3": "PAK",
+    "name": "Pakistan",
+    "centroidLat": 30,
+    "centroidLng": 70,
+    "region": "Asia"
+  },
+  {
+    "code": "PL",
+    "iso3": "POL",
+    "name": "Poland",
+    "centroidLat": 52,
+    "centroidLng": 20,
+    "region": "Europe"
+  },
+  {
+    "code": "PM",
+    "iso3": "SPM",
+    "name": "Saint Pierre and Miquelon",
+    "centroidLat": 46.83333333,
+    "centroidLng": -56.33333333,
+    "region": "Americas"
+  },
+  {
+    "code": "PN",
+    "iso3": "PCN",
+    "name": "Pitcairn Islands",
+    "centroidLat": -25.06666666,
+    "centroidLng": -130.1,
+    "region": "Oceania"
+  },
+  {
+    "code": "PR",
+    "iso3": "PRI",
+    "name": "Puerto Rico",
+    "centroidLat": 18.25,
+    "centroidLng": -66.5,
+    "region": "Americas"
+  },
+  {
+    "code": "PS",
+    "iso3": "PSE",
+    "name": "Palestine",
+    "centroidLat": 31.9,
+    "centroidLng": 35.2,
+    "region": "Asia"
+  },
+  {
+    "code": "PT",
+    "iso3": "PRT",
+    "name": "Portugal",
+    "centroidLat": 39.5,
+    "centroidLng": -8,
+    "region": "Europe"
+  },
+  {
+    "code": "PW",
+    "iso3": "PLW",
+    "name": "Palau",
+    "centroidLat": 7.5,
+    "centroidLng": 134.5,
+    "region": "Oceania"
+  },
+  {
+    "code": "PY",
+    "iso3": "PRY",
+    "name": "Paraguay",
+    "centroidLat": -23,
+    "centroidLng": -58,
+    "region": "Americas"
+  },
+  {
+    "code": "QA",
+    "iso3": "QAT",
+    "name": "Qatar",
+    "centroidLat": 25.5,
+    "centroidLng": 51.25,
+    "region": "Asia"
+  },
+  {
+    "code": "RE",
+    "iso3": "REU",
+    "name": "Réunion",
+    "centroidLat": -21.15,
+    "centroidLng": 55.5,
+    "region": "Africa"
+  },
+  {
+    "code": "RO",
+    "iso3": "ROU",
+    "name": "Romania",
+    "centroidLat": 46,
+    "centroidLng": 25,
+    "region": "Europe"
+  },
+  {
+    "code": "RS",
+    "iso3": "SRB",
+    "name": "Serbia",
+    "centroidLat": 44,
+    "centroidLng": 21,
+    "region": "Europe"
+  },
+  {
+    "code": "RU",
+    "iso3": "RUS",
+    "name": "Russia",
+    "centroidLat": 60,
+    "centroidLng": 100,
+    "region": "Europe"
+  },
+  {
+    "code": "RW",
+    "iso3": "RWA",
+    "name": "Rwanda",
+    "centroidLat": -2,
+    "centroidLng": 30,
+    "region": "Africa"
+  },
+  {
+    "code": "SA",
+    "iso3": "SAU",
+    "name": "Saudi Arabia",
+    "centroidLat": 25,
+    "centroidLng": 45,
+    "region": "Asia"
+  },
+  {
+    "code": "SB",
+    "iso3": "SLB",
+    "name": "Solomon Islands",
+    "centroidLat": -8,
+    "centroidLng": 159,
+    "region": "Oceania"
+  },
+  {
+    "code": "SC",
+    "iso3": "SYC",
+    "name": "Seychelles",
+    "centroidLat": -4.58333333,
+    "centroidLng": 55.66666666,
+    "region": "Africa"
+  },
+  {
+    "code": "SD",
+    "iso3": "SDN",
+    "name": "Sudan",
+    "centroidLat": 15,
+    "centroidLng": 30,
+    "region": "Africa"
+  },
+  {
+    "code": "SE",
+    "iso3": "SWE",
+    "name": "Sweden",
+    "centroidLat": 62,
+    "centroidLng": 15,
+    "region": "Europe"
+  },
+  {
+    "code": "SG",
+    "iso3": "SGP",
+    "name": "Singapore",
+    "centroidLat": 1.36666666,
+    "centroidLng": 103.8,
+    "region": "Asia"
+  },
+  {
+    "code": "SH",
+    "iso3": "SHN",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "centroidLat": -15.95,
+    "centroidLng": -5.72,
+    "region": "Africa"
+  },
+  {
+    "code": "SI",
+    "iso3": "SVN",
+    "name": "Slovenia",
+    "centroidLat": 46.11666666,
+    "centroidLng": 14.81666666,
+    "region": "Europe"
+  },
+  {
+    "code": "SJ",
+    "iso3": "SJM",
+    "name": "Svalbard and Jan Mayen",
+    "centroidLat": 78,
+    "centroidLng": 20,
+    "region": "Europe"
+  },
+  {
+    "code": "SK",
+    "iso3": "SVK",
+    "name": "Slovakia",
+    "centroidLat": 48.66666666,
+    "centroidLng": 19.5,
+    "region": "Europe"
+  },
+  {
+    "code": "SL",
+    "iso3": "SLE",
+    "name": "Sierra Leone",
+    "centroidLat": 8.5,
+    "centroidLng": -11.5,
+    "region": "Africa"
+  },
+  {
+    "code": "SM",
+    "iso3": "SMR",
+    "name": "San Marino",
+    "centroidLat": 43.76666666,
+    "centroidLng": 12.41666666,
+    "region": "Europe"
+  },
+  {
+    "code": "SN",
+    "iso3": "SEN",
+    "name": "Senegal",
+    "centroidLat": 14,
+    "centroidLng": -14,
+    "region": "Africa"
+  },
+  {
+    "code": "SO",
+    "iso3": "SOM",
+    "name": "Somalia",
+    "centroidLat": 10,
+    "centroidLng": 49,
+    "region": "Africa"
+  },
+  {
+    "code": "SR",
+    "iso3": "SUR",
+    "name": "Suriname",
+    "centroidLat": 4,
+    "centroidLng": -56,
+    "region": "Americas"
+  },
+  {
+    "code": "SS",
+    "iso3": "SSD",
+    "name": "South Sudan",
+    "centroidLat": 7,
+    "centroidLng": 30,
+    "region": "Africa"
+  },
+  {
+    "code": "ST",
+    "iso3": "STP",
+    "name": "São Tomé and Príncipe",
+    "centroidLat": 1,
+    "centroidLng": 7,
+    "region": "Africa"
+  },
+  {
+    "code": "SV",
+    "iso3": "SLV",
+    "name": "El Salvador",
+    "centroidLat": 13.83333333,
+    "centroidLng": -88.91666666,
+    "region": "Americas"
+  },
+  {
+    "code": "SX",
+    "iso3": "SXM",
+    "name": "Sint Maarten",
+    "centroidLat": 18.033333,
+    "centroidLng": -63.05,
+    "region": "Americas"
+  },
+  {
+    "code": "SY",
+    "iso3": "SYR",
+    "name": "Syria",
+    "centroidLat": 35,
+    "centroidLng": 38,
+    "region": "Asia"
+  },
+  {
+    "code": "SZ",
+    "iso3": "SWZ",
+    "name": "Eswatini",
+    "centroidLat": -26.5,
+    "centroidLng": 31.5,
+    "region": "Africa"
+  },
+  {
+    "code": "TC",
+    "iso3": "TCA",
+    "name": "Turks and Caicos Islands",
+    "centroidLat": 21.75,
+    "centroidLng": -71.58333333,
+    "region": "Americas"
+  },
+  {
+    "code": "TD",
+    "iso3": "TCD",
+    "name": "Chad",
+    "centroidLat": 15,
+    "centroidLng": 19,
+    "region": "Africa"
+  },
+  {
+    "code": "TF",
+    "iso3": "ATF",
+    "name": "French Southern and Antarctic Lands",
+    "centroidLat": -49.25,
+    "centroidLng": 69.167,
+    "region": "Antarctic"
+  },
+  {
+    "code": "TG",
+    "iso3": "TGO",
+    "name": "Togo",
+    "centroidLat": 8,
+    "centroidLng": 1.16666666,
+    "region": "Africa"
+  },
+  {
+    "code": "TH",
+    "iso3": "THA",
+    "name": "Thailand",
+    "centroidLat": 15,
+    "centroidLng": 100,
+    "region": "Asia"
+  },
+  {
+    "code": "TJ",
+    "iso3": "TJK",
+    "name": "Tajikistan",
+    "centroidLat": 39,
+    "centroidLng": 71,
+    "region": "Asia"
+  },
+  {
+    "code": "TK",
+    "iso3": "TKL",
+    "name": "Tokelau",
+    "centroidLat": -9,
+    "centroidLng": -172,
+    "region": "Oceania"
+  },
+  {
+    "code": "TL",
+    "iso3": "TLS",
+    "name": "Timor-Leste",
+    "centroidLat": -8.83333333,
+    "centroidLng": 125.91666666,
+    "region": "Asia"
+  },
+  {
+    "code": "TM",
+    "iso3": "TKM",
+    "name": "Turkmenistan",
+    "centroidLat": 40,
+    "centroidLng": 60,
+    "region": "Asia"
+  },
+  {
+    "code": "TN",
+    "iso3": "TUN",
+    "name": "Tunisia",
+    "centroidLat": 34,
+    "centroidLng": 9,
+    "region": "Africa"
+  },
+  {
+    "code": "TO",
+    "iso3": "TON",
+    "name": "Tonga",
+    "centroidLat": -20,
+    "centroidLng": -175,
+    "region": "Oceania"
+  },
+  {
+    "code": "TR",
+    "iso3": "TUR",
+    "name": "Türkiye",
+    "centroidLat": 39,
+    "centroidLng": 35,
+    "region": "Asia"
+  },
+  {
+    "code": "TT",
+    "iso3": "TTO",
+    "name": "Trinidad and Tobago",
+    "centroidLat": 11,
+    "centroidLng": -61,
+    "region": "Americas"
+  },
+  {
+    "code": "TV",
+    "iso3": "TUV",
+    "name": "Tuvalu",
+    "centroidLat": -8,
+    "centroidLng": 178,
+    "region": "Oceania"
+  },
+  {
+    "code": "TW",
+    "iso3": "TWN",
+    "name": "Taiwan",
+    "centroidLat": 23.5,
+    "centroidLng": 121,
+    "region": "Asia"
+  },
+  {
+    "code": "TZ",
+    "iso3": "TZA",
+    "name": "Tanzania",
+    "centroidLat": -6,
+    "centroidLng": 35,
+    "region": "Africa"
+  },
+  {
+    "code": "UA",
+    "iso3": "UKR",
+    "name": "Ukraine",
+    "centroidLat": 49,
+    "centroidLng": 32,
+    "region": "Europe"
+  },
+  {
+    "code": "UG",
+    "iso3": "UGA",
+    "name": "Uganda",
+    "centroidLat": 1,
+    "centroidLng": 32,
+    "region": "Africa"
+  },
+  {
+    "code": "UM",
+    "iso3": "UMI",
+    "name": "United States Minor Outlying Islands",
+    "centroidLat": 19.3,
+    "centroidLng": 166.633333,
+    "region": "Americas"
+  },
+  {
+    "code": "US",
+    "iso3": "USA",
+    "name": "United States",
+    "centroidLat": 38,
+    "centroidLng": -97,
+    "region": "Americas"
+  },
+  {
+    "code": "UY",
+    "iso3": "URY",
+    "name": "Uruguay",
+    "centroidLat": -33,
+    "centroidLng": -56,
+    "region": "Americas"
+  },
+  {
+    "code": "UZ",
+    "iso3": "UZB",
+    "name": "Uzbekistan",
+    "centroidLat": 41,
+    "centroidLng": 64,
+    "region": "Asia"
+  },
+  {
+    "code": "VA",
+    "iso3": "VAT",
+    "name": "Vatican City",
+    "centroidLat": 41.9,
+    "centroidLng": 12.45,
+    "region": "Europe"
+  },
+  {
+    "code": "VC",
+    "iso3": "VCT",
+    "name": "Saint Vincent and the Grenadines",
+    "centroidLat": 13.25,
+    "centroidLng": -61.2,
+    "region": "Americas"
+  },
+  {
+    "code": "VE",
+    "iso3": "VEN",
+    "name": "Venezuela",
+    "centroidLat": 8,
+    "centroidLng": -66,
+    "region": "Americas"
+  },
+  {
+    "code": "VG",
+    "iso3": "VGB",
+    "name": "British Virgin Islands",
+    "centroidLat": 18.431383,
+    "centroidLng": -64.62305,
+    "region": "Americas"
+  },
+  {
+    "code": "VI",
+    "iso3": "VIR",
+    "name": "United States Virgin Islands",
+    "centroidLat": 18.35,
+    "centroidLng": -64.933333,
+    "region": "Americas"
+  },
+  {
+    "code": "VN",
+    "iso3": "VNM",
+    "name": "Vietnam",
+    "centroidLat": 16.16666666,
+    "centroidLng": 107.83333333,
+    "region": "Asia"
+  },
+  {
+    "code": "VU",
+    "iso3": "VUT",
+    "name": "Vanuatu",
+    "centroidLat": -16,
+    "centroidLng": 167,
+    "region": "Oceania"
+  },
+  {
+    "code": "WF",
+    "iso3": "WLF",
+    "name": "Wallis and Futuna",
+    "centroidLat": -13.3,
+    "centroidLng": -176.2,
+    "region": "Oceania"
+  },
+  {
+    "code": "WS",
+    "iso3": "WSM",
+    "name": "Samoa",
+    "centroidLat": -13.58333333,
+    "centroidLng": -172.33333333,
+    "region": "Oceania"
+  },
+  {
+    "code": "XK",
+    "iso3": "UNK",
+    "name": "Kosovo",
+    "centroidLat": 42.666667,
+    "centroidLng": 21.166667,
+    "region": "Europe"
+  },
+  {
+    "code": "YE",
+    "iso3": "YEM",
+    "name": "Yemen",
+    "centroidLat": 15,
+    "centroidLng": 48,
+    "region": "Asia"
+  },
+  {
+    "code": "YT",
+    "iso3": "MYT",
+    "name": "Mayotte",
+    "centroidLat": -12.83333333,
+    "centroidLng": 45.16666666,
+    "region": "Africa"
+  },
+  {
+    "code": "ZA",
+    "iso3": "ZAF",
+    "name": "South Africa",
+    "centroidLat": -29,
+    "centroidLng": 24,
+    "region": "Africa"
+  },
+  {
+    "code": "ZM",
+    "iso3": "ZMB",
+    "name": "Zambia",
+    "centroidLat": -15,
+    "centroidLng": 30,
+    "region": "Africa"
+  },
+  {
+    "code": "ZW",
+    "iso3": "ZWE",
+    "name": "Zimbabwe",
+    "centroidLat": -20,
+    "centroidLng": 30,
+    "region": "Africa"
+  }
+]

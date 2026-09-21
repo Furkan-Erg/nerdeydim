@@ -1,0 +1,85 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id           String   @id @default(cuid())
+  email        String   @unique
+  passwordHash String
+  name         String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  trips        Trip[]
+  customCities City[]   @relation("CustomCitiesByUser")
+}
+
+model Country {
+  code        String @id // ISO 3166-1 alpha-2, e.g. "FR"
+  iso3        String @unique
+  name        String
+  centroidLat Float
+  centroidLng Float
+  region      String?
+
+  cities City[]
+}
+
+enum CitySource {
+  CURATED
+  CUSTOM
+}
+
+model City {
+  id              String     @id @default(cuid())
+  name            String
+  lat             Float
+  lng             Float
+  population      Int?
+  countryCode     String
+  country         Country    @relation(fields: [countryCode], references: [code])
+  source          CitySource @default(CURATED)
+  createdByUserId String?
+  createdBy       User?      @relation("CustomCitiesByUser", fields: [createdByUserId], references: [id])
+  isUnspecified   Boolean    @default(false)
+  createdAt       DateTime   @default(now())
+
+  trips Trip[]
+
+  @@index([countryCode])
+  @@index([name])
+}
+
+enum TransportationType {
+  PLANE
+  TRAIN
+  CAR
+  BUS
+  BOAT
+  BICYCLE
+  WALKING
+  OTHER
+}
+
+model Trip {
+  id                 String             @id @default(cuid())
+  userId             String
+  user               User               @relation(fields: [userId], references: [id], onDelete: Cascade)
+  cityId             String
+  city               City               @relation(fields: [cityId], references: [id])
+  startDate          DateTime           @db.Date
+  endDate            DateTime           @db.Date
+  notes              String?
+  rating             Int?
+  transportationType TransportationType
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  @@index([userId])
+  @@index([cityId])
+  @@index([userId, startDate])
+}
